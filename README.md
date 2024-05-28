@@ -1,29 +1,5 @@
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Status-Em%20desenvolvimento-green?style=flat-square"
-    alt="Status"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://img.shields.io/github/repo-size/Sofia-Saraiva/Semester3-CESAR-School?style=flat"
-    alt="Repository Size"
-  />
-  <img
-    src="https://img.shields.io/github/languages/count/Sofia-Saraiva/Semester3-CESAR-School?style=flat&logo=python"
-    alt="Language Count"
-  />
-  <img
-    src="https://img.shields.io/github/commit-activity/t/Sofia-Saraiva/Semester3-CESAR-School?style=flat&logo=github"
-    alt="Commit Activity"
-  />
-  <a href="LICENSE.md"
-    ><img
-      src="https://img.shields.io/github/license/Sofia-Saraiva/Semester3-CESAR-School"
-      alt="License"
-  /></a>
-</p>
-## 🖥️ Space Invaders
+# 🖥️ Space Invaders
+<br>
 ## 📄 Descrição
 Space Invaders é um clássico jogo de arcade lançado em 1978, onde os jogadores controlam uma nave espacial que deve defender a Terra de uma horda de alienígenas invasores.
 ## 🎲 Objetivo do Jogo
